@@ -3,7 +3,7 @@
 > **MP0486 Accés a dades · Escola Pia Santa Anna-Mataró**
 > Pràctica entregada per **Hugo** (`hugocrct`)
 
-Hola, professor/a! 👋
+Hola, Jordi (o Ruben)! 👋
 Aquest repositori conté la resolució de la pràctica **p101storageproducte**: un aplicatiu web Laravel que recull dades de productes mitjançant un formulari, les desa en **dos fitxers** (JSON i XML) i les torna a llegir per mostrar-les en taules.
 
 ---
