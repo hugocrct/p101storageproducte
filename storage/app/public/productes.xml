@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<productes>
+  <producte>
+    <nom>Camisa</nom>
+    <descripcio>caaaaaaaaaaamisa</descripcio>
+    <preu>1111</preu>
+    <iva>21</iva>
+    <color>Azul</color>
+    <talla>S</talla>
+    <preu_venda>1344.31</preu_venda>
+  </producte>
+</productes>
